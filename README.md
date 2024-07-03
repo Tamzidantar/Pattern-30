@@ -1,6 +1,8 @@
+![SQA Engineer ](https://media.licdn.com/dms/image/D4D16AQFOusXJLAZJ0g/profile-displaybackgroundimage-shrink_350_1400/0/1720035447515?e=1725494400&v=beta&t=Y7uOqVS3uRGXgmJtc7D9CPmCjNqqDm7VrD0Gn-0pU-E)
+
 ### Hi there 👋, I'm  MD. Antar
 #### SQA Engineer 
-![SQA Engineer ](https://media.licdn.com/dms/image/D4D16AQFOusXJLAZJ0g/profile-displaybackgroundimage-shrink_350_1400/0/1720035447515?e=1725494400&v=beta&t=Y7uOqVS3uRGXgmJtc7D9CPmCjNqqDm7VrD0Gn-0pU-E)
+
 
 Seeking an entry-level position as a Software Quality Assurance Engineer.Proven ability to identify and troubleshoot 
 software defects, with a strong attention to detail and a commitment to quality. I am seeking a challenging and rewarding 
